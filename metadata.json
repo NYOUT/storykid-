@@ -1,0 +1,6 @@
+{
+  "name": "StoryKid - Personalized Children's Books",
+  "description": "Turn your child into the hero of their own custom illustrated adventure storybook. Personalized keepsakes printed and delivered with love.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
